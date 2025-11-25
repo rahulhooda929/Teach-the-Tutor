@@ -1,0 +1,7 @@
+{
+  "name": "Teach-the-Tutor: Active Recall Coach",
+  "description": "A conversational AI tutor using Gemini Live API with three active recall modes: Learn, Quiz, and Teach-Back.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
